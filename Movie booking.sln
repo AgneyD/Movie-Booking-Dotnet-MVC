@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Movie booking", "Movie booking\Movie booking.csproj", "{0B9667BB-46EB-411D-88A0-4ACA366CC553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fileuploadcontrol", "Fileuploadcontrol\Fileuploadcontrol.csproj", "{09514E24-D563-4635-A4CA-74D56810A09B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B9667BB-46EB-411D-88A0-4ACA366CC553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9667BB-46EB-411D-88A0-4ACA366CC553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9667BB-46EB-411D-88A0-4ACA366CC553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9667BB-46EB-411D-88A0-4ACA366CC553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09514E24-D563-4635-A4CA-74D56810A09B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09514E24-D563-4635-A4CA-74D56810A09B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09514E24-D563-4635-A4CA-74D56810A09B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09514E24-D563-4635-A4CA-74D56810A09B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FD86599-8B01-4BE7-9387-BD39325C073D}
+	EndGlobalSection
+EndGlobal
